@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-29T13:49:41Z" name="Default suite" finished-at="2023-11-29T13:49:49Z" duration-ms="7752">
+    <groups>
+    </groups>
+    <test started-at="2023-11-29T13:49:41Z" name="Default test" finished-at="2023-11-29T13:49:49Z" duration-ms="7752">
+      <class name="Swag_Lab.end_To_End_testing">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Swag_Lab.end_To_End_testing@73cd37c0]" started-at="2023-11-29T19:19:41Z" name="setUp" finished-at="2023-11-29T19:19:45Z" duration-ms="3714" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="t1url()[pri:0, instance:Swag_Lab.end_To_End_testing@73cd37c0]" started-at="2023-11-29T19:19:45Z" name="t1url" finished-at="2023-11-29T19:19:45Z" duration-ms="886" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t1url -->
+        <test-method signature="t2loginPage()[pri:0, instance:Swag_Lab.end_To_End_testing@73cd37c0]" started-at="2023-11-29T19:19:45Z" name="t2loginPage" finished-at="2023-11-29T19:19:46Z" duration-ms="687" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t2loginPage -->
+        <test-method signature="t3addAllItemInToCart()[pri:0, instance:Swag_Lab.end_To_End_testing@73cd37c0]" started-at="2023-11-29T19:19:46Z" name="t3addAllItemInToCart" finished-at="2023-11-29T19:19:47Z" duration-ms="521" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t3addAllItemInToCart -->
+        <test-method signature="t4opentheaddeditem()[pri:0, instance:Swag_Lab.end_To_End_testing@73cd37c0]" started-at="2023-11-29T19:19:47Z" name="t4opentheaddeditem" finished-at="2023-11-29T19:19:47Z" duration-ms="124" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t4opentheaddeditem -->
+        <test-method signature="t5takeScreenShotAtaddedToCartPage()[pri:0, instance:Swag_Lab.end_To_End_testing@73cd37c0]" started-at="2023-11-29T19:19:47Z" name="t5takeScreenShotAtaddedToCartPage" finished-at="2023-11-29T19:19:47Z" duration-ms="311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t5takeScreenShotAtaddedToCartPage -->
+        <test-method signature="t6chechout()[pri:0, instance:Swag_Lab.end_To_End_testing@73cd37c0]" started-at="2023-11-29T19:19:47Z" name="t6chechout" finished-at="2023-11-29T19:19:47Z" duration-ms="115" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t6chechout -->
+        <test-method signature="t7personalDataAdd()[pri:0, instance:Swag_Lab.end_To_End_testing@73cd37c0]" started-at="2023-11-29T19:19:47Z" name="t7personalDataAdd" finished-at="2023-11-29T19:19:48Z" duration-ms="602" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t7personalDataAdd -->
+        <test-method signature="t8completeTheProcess()[pri:0, instance:Swag_Lab.end_To_End_testing@73cd37c0]" started-at="2023-11-29T19:19:48Z" name="t8completeTheProcess" finished-at="2023-11-29T19:19:48Z" duration-ms="176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t8completeTheProcess -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Swag_Lab.end_To_End_testing@73cd37c0]" started-at="2023-11-29T19:19:48Z" name="teardown" finished-at="2023-11-29T19:19:49Z" duration-ms="582" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Swag_Lab.end_To_End_testing -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
